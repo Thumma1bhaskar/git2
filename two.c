@@ -3,7 +3,8 @@
 #include<stdio.h>
 void main(()
 {
-	int num
+	int num;
+	ogijyti
 	
 	
 	;
